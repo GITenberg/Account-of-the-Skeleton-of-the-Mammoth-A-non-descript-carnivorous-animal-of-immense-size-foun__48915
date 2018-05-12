@@ -1,10 +1,16 @@
 _repo: Account-of-the-Skeleton-of-the-Mammoth-A-non-descript-carnivorous-animal-of-immense-size-foun__48915
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48915-h/images/cover.jpg
 creator:
   author:
     agent_name: Peale, Rembrandt
     gutenberg_agent_id: '45042'
     url: http://www.gutenberg.org/2009/agents/45042
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48915#Account-of-the-Skeleton-of-the-Mammoth-A-non-descript-carnivorous-animal-of-immense-size-foun_
 gutenberg_issued: '2015-05-10'
 gutenberg_type: Text
 identifiers:
